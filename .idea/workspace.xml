@@ -1,59 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1ed7e7c-3ed1-4bc1-903f-c069bcb511bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/polls/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/testsite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/testsite.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asite/asite/111.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asite/asite/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asite/asite/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asite/asite/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asite/asite/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asite/asite/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asite/asite/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asite/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asite/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asite/shop/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asite/shop/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asite/shop/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asite/shop/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asite/shop/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asite/shop/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asite/shop/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Django-4.0.dist-info/AUTHORS" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Django-4.0.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Django-4.0.dist-info/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Django-4.0.dist-info/LICENSE.python" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Django-4.0.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Django-4.0.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Django-4.0.dist-info/REQUESTED" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Django-4.0.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Django-4.0.dist-info/entry_points.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Django-4.0.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/django/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/django/apps/registry.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django/apps/registry.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/django/contrib/auth/password_validation.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django/contrib/auth/password_validation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/django/contrib/gis/geos/collections.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django/contrib/gis/geos/collections.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/django/contrib/gis/geos/polygon.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django/contrib/gis/geos/polygon.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/django/contrib/gis/geos/prototypes/geom.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django/contrib/gis/geos/prototypes/geom.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/django/core/cache/backends/redis.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django/core/cache/backends/redis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/django/core/files/storage.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django/core/files/storage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/django/db/backends/postgresql/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django/db/backends/postgresql/base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/django/template/defaultfilters.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django/template/defaultfilters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/django/test/testcases.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django/test/testcases.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/django/views/decorators/cache.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django/views/decorators/cache.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-21.3.1.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-21.3.1.dist-info/RECORD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlparse-0.4.2.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlparse-0.4.2.dist-info/RECORD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/activate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/activate.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/django-admin.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/django-admin.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.9.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.9.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/sqlformat.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/sqlformat.exe" afterDir="false" />
-    </list>
+    <list default="true" id="b1ed7e7c-3ed1-4bc1-903f-c069bcb511bb" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,12 +41,24 @@
       <updated>1642106086524</updated>
       <workItem from="1642106096251" duration="4120000" />
       <workItem from="1642110449708" duration="1777000" />
-      <workItem from="1642112311913" duration="639000" />
+      <workItem from="1642112311913" duration="980000" />
     </task>
+    <task id="LOCAL-00001" summary="project polls start">
+      <created>1642113209297</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642113209297</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="project polls start" />
+    <option name="LAST_COMMIT_MESSAGE" value="project polls start" />
   </component>
   <component name="WindowStateProjectService">
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1642110446391">
