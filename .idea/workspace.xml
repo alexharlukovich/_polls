@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1ed7e7c-3ed1-4bc1-903f-c069bcb511bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mysite/polls/templates/polls/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/polls/templates/polls/results.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/polls/templates/polls/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/templates/polls/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/polls/templates/polls/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/templates/polls/detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/views.py" afterDir="false" />
     </list>
@@ -42,6 +43,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
@@ -67,7 +69,8 @@
       <workItem from="1642704484571" duration="595000" />
       <workItem from="1642956386541" duration="6302000" />
       <workItem from="1643048131597" duration="5585000" />
-      <workItem from="1643137453696" duration="4861000" />
+      <workItem from="1643137453696" duration="5184000" />
+      <workItem from="1643218370851" duration="5832000" />
     </task>
     <task id="LOCAL-00001" summary="project polls start">
       <created>1642113209297</created>
@@ -160,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643063530125</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="templates">
+      <created>1643147497666</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1643147497666</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,10 +195,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1642365195286" />
-    <state x="113" y="0" width="919" height="728" key="CommitChangelistDialog2" timestamp="1643063526624">
+    <state x="113" y="0" width="919" height="728" key="CommitChangelistDialog2" timestamp="1643147493923">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="113" y="0" width="919" height="728" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1643063526624" />
+    <state x="113" y="0" width="919" height="728" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1643147493923" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1642110446391">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -205,18 +215,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1642113409079" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1643063548039">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1643147518775">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1643063548039" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1643147518775" />
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1642113720597">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1642113720597" />
-    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1643063533357">
+    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1643147506508">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1643063533357" />
+    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1643147506508" />
     <state x="484" y="152" key="git4idea.merge.GitPullDialog" timestamp="1642370695462">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
