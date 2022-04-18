@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1ed7e7c-3ed1-4bc1-903f-c069bcb511bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mysite/polls/static/polls/images/background.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/polls/static/polls/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/polls/templates/admin/base_site.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/polls/templates/polls/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/templates/polls/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +70,8 @@
       <workItem from="1643218370851" duration="5877000" />
       <workItem from="1643303786435" duration="6802000" />
       <workItem from="1643553720448" duration="11370000" />
+      <workItem from="1643576871587" duration="96000" />
+      <workItem from="1644265086114" duration="71000" />
     </task>
     <task id="LOCAL-00001" summary="project polls start">
       <created>1642113209297</created>
@@ -191,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643320589204</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="7part">
+      <created>1643576891600</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1643576891600</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,7 +208,8 @@
     <MESSAGE value="templates" />
     <MESSAGE value="p.4" />
     <MESSAGE value="tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="tests" />
+    <MESSAGE value="7part" />
+    <option name="LAST_COMMIT_MESSAGE" value="7part" />
   </component>
   <component name="WindowStateProjectService">
     <state x="568" y="227" key="#Notifications" timestamp="1642113296041">
@@ -218,14 +220,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1642365195286" />
-    <state x="113" y="0" width="919" height="728" key="CommitChangelistDialog2" timestamp="1643320584009">
+    <state x="113" y="0" width="919" height="728" key="CommitChangelistDialog2" timestamp="1643576887211">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="113" y="0" width="919" height="728" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1643320584009" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1642110446391">
+    <state x="113" y="0" width="919" height="728" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1643576887211" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1644265148927">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1642110446391" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1644265148927" />
     <state x="465" y="231" key="Github.CreatePullRequestDialog" timestamp="1642457023399">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -238,18 +240,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1642113409079" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1643320609733">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1643576914611">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1643320609733" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1643576914611" />
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1642113720597">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1642113720597" />
-    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1643320592039">
+    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1643576894681">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1643320592039" />
+    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1643576894681" />
     <state x="484" y="152" key="git4idea.merge.GitPullDialog" timestamp="1642370695462">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
